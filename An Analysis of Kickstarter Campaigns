@@ -1,6 +1,8 @@
 # Kickstarting with Excel
 
 ## Overview of Project
+I received data on the fundraising goals of 4000+ Kickstarter projects to determine how to advise Louise in meeting her fundraising goal for her project. 
+The outcome of each Kickstarter was deeemed "successful", "live", "failed", or "canceled" based on whether the fundraising goal was met by supporters.
 
 ### Purpose
 
