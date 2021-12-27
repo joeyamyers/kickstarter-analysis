@@ -1,8 +1,11 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-I received data on the fundraising goals of 4000+ Kickstarter projects to determine how to advise Louise in meeting her fundraising goal for her project. 
-The outcome of each Kickstarter was deeemed "successful", "live", "failed", or "canceled" based on whether the fundraising goal was met by supporters.
+I generated insights based on data from 4000+ Kickstarter projects in order to better advise Louise in meeting her own project's fundraising goal. 
+Depending on whether each project's Kickstarter goal was met, the project's outcome was deemed "successful", "live", "failed", or "canceled".
+To better the chances in meeting Louise's fundraising goal, I subsetted the data to analyze which factors including the amount of backers per 
+project, the duration of each Kickstarter campaign, etc. were correlated to a certain outcome.
+ 
 
 ### Purpose
 
@@ -11,17 +14,35 @@ The outcome of each Kickstarter was deeemed "successful", "live", "failed", or "
 ### Analysis of Outcomes Based on Launch Date
 ![Theater_Outcomes_vs_Launch](path/to/Theater_Outcomes_vs_Launch.png)
 
+Pivot tables and charts were utilized to determine whether launch date had any bearing on a Kickstarter's outcome. I filtered the pivot table based on the year
+and the theater parent category to compile projects most similar to Louise's. The outcome of each theater Kickstarter was aggreagted and organized according 
+to which the month the Kickstarter began. 
+
+I created a chart (seen above) in order help visualize the findings from the pivot chart. With each month of the year as the X-axis and the agggreagted count 
+of each outcome on the Y-axis, the chart made it apparent which months were most and least successful based on launch date.
+
 ### Analysis of Outcomes Based on Goals
+Finding the outcome of Kickstarter projects based on goals was very similar to the process of finding the outcomes based on launch date. Each project was 
+organized into a specific goal range based on its own goal and then aggregated based on the outcome (Successful, Failed, Canceled). The projects per goal range
+were totaled to find the rate at which each project was successful, failed, or canceled. 
+
+These findings were easier understoood by the chart above. I created a line graph showing the trends of each outcome with the goal outcome ranges as the X-axis 
+and the outcome percentages as the Y-axis. The graph made it clear to see that as the goal ranges increased, the success rates declined.
 
 ### Challenges and Difficulties Encountered
 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+Based on the data show in this chart, I determined that May and June are the optimal months for launch dates for theater kickstarters. These two months have far higher success rates than other months.
+I also determined that the worst time period to launch a theater kickstarter is nearing the end of the calendar year.
 
 - What can you conclude about the Outcomes based on Goals?
+I found there to be a general inverse relationship between success rate and the kickstarter goal amount. The data showed that as the goals increased, 
+the percentage that the kickstarters were successful declined. Additionally, projects aiming to raise more than $50,000 failed almost 60% of the time. 
+Louise's estimated goal of $12,000 placed her in the goal range with a 48% succesful outcome.
 
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
-
+I believe that it would be advantageous to subset the data to fit the exact criteria of Louise's kickstarter campaign. 
