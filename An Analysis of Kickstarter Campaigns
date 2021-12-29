@@ -22,6 +22,7 @@ I created a chart (seen above) in order help visualize the findings from the piv
 of each outcome on the Y-axis, the chart made it apparent which months were most and least successful based on launch date.
 
 ### Analysis of Outcomes Based on Goals
+![Outcomes_Based_on_Goals](path/to/Outcomes_Based_on_Goals.png)
 Finding the outcome of Kickstarter projects based on goals was very similar to the process of finding the outcomes based on launch date. Each project was 
 organized into a specific goal range based on its own goal and then aggregated based on the outcome (Successful, Failed, Canceled). The projects per goal range
 were totaled to find the rate at which each project was successful, failed, or canceled. 
