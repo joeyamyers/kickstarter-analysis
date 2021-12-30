@@ -6,9 +6,8 @@ Depending on whether each project's Kickstarter goal was met, the project's outc
 To better the chances in meeting Louise's fundraising goal, I subsetted the data to analyze which factors including the amount of backers per 
 project, the duration of each Kickstarter campaign, etc. were correlated to a certain outcome.
  
-Louise is trying to gget her new theater project funded through Kickstarter. This Kickstarter analysis was undertaken in order to generate insight to help 
-Louise's project gget the funding it needs to one day come to fruition.
-...educate Louise in making the put Louise in the best position to succeed in attaining her Kickstarter goal.
+Louise is currently trying to get her new theater project funded through Kickstarter, so this analysis was undertaken in order to generate insight to help 
+Louise's project get the funding it needs to one day come to fruition.
 
 
 ### Purpose
@@ -39,16 +38,18 @@ and the outcome percentages as the Y-axis. The graph made it clear to see that a
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-Based on the data show in this chart, I determined that May and June are the optimal months for launch dates for theater kickstarters. These two months have far higher success rates than other months.
-I also determined that the worst time period to launch a theater kickstarter is nearing the end of the calendar year.
+Based on the data show in this chart, I determined that May and June are the optimal months for launch dates for theater kickstarters. These two months have 
+far higher success rates than other months. I also determined that the worst time period to launch a theater kickstarter is nearing the end of the calendar year.
 
 - What can you conclude about the Outcomes based on Goals?
-I found there to be a general inverse relationship between success rate and the kickstarter goal amount. The data showed that as the goals increased, 
-the percentage that the kickstarters were successful declined. Additionally, projects aiming to raise more than $50,000 failed almost 60% of the time. 
-Louise's estimated goal of $12,000 placed her in the goal range with a 48% succesful outcome.
+I found there to be a general inverse relationship between success rate and the Kickstarter goal amount. The data showed that as the goal amount ($) increased,
+the percentage of successful Kickstarters declined. Additionally, larger projects aiming to raise more than $50,000 failed almost 60% of the time. 
+Louise's estimated goal of $12,000 placed her in the goal range with a 48% succesful outcome based on this data.
 
 - What are some limitations of this dataset?
-There are a few limitations in this dataset: one, two, three.
+There are a few limitations in this dataset: lack of descriptive data (ie. intended age group, age of backers), two, three. More descriptive data in relation to 
+outcomes would have been more advantageous for Louise's overall marketing strategy.
 
 - What are some other possible tables and/or graphs that we could create?
-I believe that it would be advantageous to subset the data to fit the exact criteria of Louise's kickstarter campaign. 
+It would have been advantageous to visulaize the potential correlation between the Kickstarter outcome and the amount of the days the campaigns lasted. 
+This relationship would be beneficial for Louise's marleting strategy. An addititonal pivot table detailing the relationship between...
