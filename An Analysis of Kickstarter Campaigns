@@ -6,6 +6,10 @@ Depending on whether each project's Kickstarter goal was met, the project's outc
 To better the chances in meeting Louise's fundraising goal, I subsetted the data to analyze which factors including the amount of backers per 
 project, the duration of each Kickstarter campaign, etc. were correlated to a certain outcome.
  
+Louise is trying to gget her new theater project funded through Kickstarter. This Kickstarter analysis was undertaken in order to generate insight to help 
+Louise's project gget the funding it needs to one day come to fruition.
+...educate Louise in making the put Louise in the best position to succeed in attaining her Kickstarter goal.
+
 
 ### Purpose
 
@@ -44,6 +48,7 @@ the percentage that the kickstarters were successful declined. Additionally, pro
 Louise's estimated goal of $12,000 placed her in the goal range with a 48% succesful outcome.
 
 - What are some limitations of this dataset?
+There are a few limitations in this dataset: one, two, three.
 
 - What are some other possible tables and/or graphs that we could create?
 I believe that it would be advantageous to subset the data to fit the exact criteria of Louise's kickstarter campaign. 
