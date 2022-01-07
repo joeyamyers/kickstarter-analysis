@@ -36,7 +36,7 @@ Based on the data, I determined that May and June are the optimal months for lau
 I found there to be a general inverse relationship between success rate and the Kickstarter goal amount. The data showed that as the goal amount ($) increased, the percentage of successful Kickstarters declined. Additionally, larger projects aiming to raise more than $50,000 failed almost 60% of the time. Louise's estimated goal of $12,000 placed her in the goal range with a 48% succesful outcome based on this data.
 
 - What are some limitations of this dataset?
-There are a few limitations in this dataset: lack of descriptive data (ie. intended age group, age of backers), two, three. More descriptive data in relation to  outcomes would have been more advantageous for Louise's overall marketing strategy.
+The lack of descriptive data stands out as a significant limitation in this dataset. More descriptive data in relation to outcomes (ie. intended age group, age of backers) would have been more advantageous for Louise's overall marketing strategy and future Kickstarters. Additionally, more data specifically for the theater parent category and play subcategory would be helpful in performing a more accurate and specific analysis for Louise's Kickstarter.
 
 - What are some other possible tables and/or graphs that we could create?
-It would have been advantageous to visulaize the potential correlation between the Kickstarter outcome and the amount of the days the campaigns lasted. This relationship would be beneficial for Louise's marketing strategy. An addititonal pivot table detailing the relationship between...
+It would have been advantageous to visualize the potential correlation between the Kickstarter outcome and the amount of the days the campaigns lasted. This relationship would be beneficial for Louise's marketing strategy.
