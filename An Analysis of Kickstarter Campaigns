@@ -10,7 +10,7 @@ The goal of this analysis is to help playwright, Louise, with her crowdfunding c
 
 ### Analysis of Outcomes Based on Launch Date
 
-![](Resources/.png)
+![](Resources/Theater_Outcomes_vs_Launch.png)
 
 Pivot tables and charts were utilized to determine whether a campaign's launch date (month) had any bearing on its outcome. There were three possible outcomes for a Kickstarter campaign: successful, failed, or canceled. I started by subsetting the dataset into a pivot table and then filtered the pivot table to only show the "theater" parent category to compile projects most similar to Louise's. Each theater Kickstarter was then organized by its outcome and according to which month the campaign began.
 
