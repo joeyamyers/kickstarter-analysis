@@ -22,7 +22,7 @@ I created a chart (seen above) in order help visualize the findings from the piv
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/96351306/148727507-c0c2d531-fae3-41e8-895f-ecdb5b5924c3.png)
 
-Finding the outcome of Kickstarter projects based on goals was very similar to the process of finding the outcomes based on launch date. Each project was placed into one of twelve goal ranges based on its own campaign goal. The projects were then counted respective to its goal range and on the outcome (successful, failed, or canceled). The projects per goal range were totaled to find the rate at which each project was successful, failed, or canceled. 
+Finding the outcome of Kickstarter projects based on goals was very similar to the process of finding the outcomes based on launch date. Each project was placed into one of twelve goal ranges based on its own campaign goal. The projects were then counted respective to its goal range and on the outcome (successful, failed, or canceled). The projects across all outcomes per goal range were totaled to find the rate at which each project was successful, failed, or canceled. 
 
 These findings were easier understoood by the chart above. I created a line graph showing the trends of each outcome with the goal outcome ranges as the X-axis  and the outcome percentages as the Y-axis. The graph made it clear to see that as the goal ranges increased, the success rates declined.
 
