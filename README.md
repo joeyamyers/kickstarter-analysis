@@ -6,7 +6,7 @@ Performing analysis on Kickstarter data to uncover trends for future successful 
 
 
 ### Purpose
-The goal of this analysis is to help playwright, Louise, with her crowdfunding campaign on Kickstarter. The insights derived from the data of 4000+ Kickstarter campaigns will be used to coordinate Louise's own Kickstarter in giving her the best chance for success. Aspects including a campaign's launch date and fundraising goal were identified as potential factors of successful campaigns and will shape the parameters of Louise's Kickstarter.  Additionally, the analysis will help Louise gain a better understanding of the successful aspects of comparable projects that she can then apply to her own project. 
+The goal of this analysis is to help playwright, Louise, with her crowdfunding campaign on Kickstarter. The insights derived from the data of 4000+ Kickstarter campaigns will be used to coordinate Louise's own Kickstarter campaign in giving her the best chance for success. Aspects including a campaign's launch date and fundraising goal were identified as potential factors of successful campaigns and will shape the parameters of Louise's Kickstarter.  Additionally, the analysis will help Louise gain a better understanding of the successful aspects of comparable projects that she can then apply to her own project.
 
 ## Analysis and Challenges
 
