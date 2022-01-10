@@ -10,7 +10,7 @@ The goal of this analysis is to help playwright, Louise, with her crowdfunding c
 
 ### Analysis of Outcomes Based on Launch Date
 
-![](Resources/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/96351306/148727385-2af25cbc-90a0-4a20-adb7-e397e988777c.png)
 
 Pivot tables and charts were utilized to determine whether a campaign's launch date (month) had any bearing on its outcome. There were three possible outcomes for a Kickstarter campaign: successful, failed, or canceled. I started by subsetting the dataset into a pivot table and then filtered the pivot table to only show the "theater" parent category to compile projects most similar to Louise's. Each theater Kickstarter was then organized by its outcome and according to which month the campaign began.
 
@@ -18,7 +18,7 @@ I created a chart (seen above) in order help visualize the findings from the piv
 
 ### Analysis of Outcomes Based on Goals
 
-![](https://github.com/joeyamyers/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/96351306/148727507-c0c2d531-fae3-41e8-895f-ecdb5b5924c3.png)
 
 Finding the outcome of Kickstarter projects based on goals was very similar to the process of finding the outcomes based on launch date. Each project was placed into one of twelve goal ranges based on its own campaign goal. The projects were then counted respective to its goal range and on the outcome (successful, failed, or canceled). The projects per goal range were totaled to find the rate at which each project was successful, failed, or canceled. 
 
@@ -40,4 +40,4 @@ I found there to be a general inverse relationship between success rate and the 
 The lack of descriptive data stands out as a significant limitation in this dataset. More descriptive data in relation to outcomes (ie. intended age group, age of backers, genre) would have been more advantageous for Louise's overall marketing strategy and future Kickstarters. Additionally, more data specifically for the theater parent category and play subcategory would be helpful in performing a more accurate and specific analysis for Louise's Kickstarter.
 
 - What are some other possible tables and/or graphs that we could create?
-It would have been advantageous to visualize the potential correlation between the Kickstarter outcome and the amount of the days the campaigns lasted. This relationship would be beneficial for Louise's marketing strategy. 
+It would have been advantageous to visualize the potential correlation between the Kickstarter outcome and the amount of the days the campaigns lasted. This relationship would be beneficial for Louise's marketing strategy.
