@@ -14,7 +14,7 @@ The goal of this analysis is to help playwright, Louise, with her crowdfunding c
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/96351306/148727385-2af25cbc-90a0-4a20-adb7-e397e988777c.png)
 
-Pivot tables and charts were utilized to determine whether a campaign's launch date (month) had any bearing on its outcome. There were three possible outcomes for a Kickstarter campaign: successful, failed, or canceled. I started by subsetting the dataset into a pivot table and then filtered the pivot table to only show the "theater" parent category to compile projects most similar to Louise's. Each theater Kickstarter was then organized by its outcome and according to which month the campaign began.
+Pivot tables and charts were utilized to determine whether a campaign's launch date (month) had any bearing on its outcome. There were three possible outcomes for a Kickstarter campaign: successful, failed, or canceled. I started by subsetting the dataset into a pivot table and then filtered the pivot table to only show the "theater" parent category to compile projects most similar to Louise's. Each theater Kickstarter was then organized by its respective outcome and according to which month the campaign began.
 
 I created a chart (seen above) in order help visualize the findings from the pivot chart. With each month of the year as the X-axis and the agggregated count of each outcome on the Y-axis, the chart made it apparent which months were most and least successful based on launch date.
 
