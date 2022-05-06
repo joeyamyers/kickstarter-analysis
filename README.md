@@ -1,6 +1,4 @@
 # kickstarter-analysis
-Performing analysis on Kickstarter data to uncover trends for future successful kickstarters
-# Kickstarting with Excel
 
 ## Overview of Project
 
